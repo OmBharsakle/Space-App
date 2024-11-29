@@ -1,16 +1,52 @@
-# space_apps
+# 🌌 Space Exploration App
 
-A new Flutter project.
+**Space Exploration App** is a beautifully designed Flutter application that allows users to explore the wonders of the universe. The app features interactive 3D animations of celestial objects, detailed descriptions, and a clean user interface for a delightful experience. 🚀
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📋 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌍 **Interactive 3D Models**: Explore planets and stars with realistic animations.
+- 📖 **Detailed Information**: Learn fascinating facts about celestial objects.
+- 🎨 **Beautiful UI**: A modern and user-friendly design with smooth animations.
+- 🌠 **Animated Backgrounds**: Dynamic starry sky and rotating planets.
+- 🪐 **Expandable**: Easily add new celestial objects dynamically.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Technologies Used
+
+- **Flutter**: For building the cross-platform application.
+- **Dart**: Programming language used with Flutter.
+- **flutter_cube**: For rendering and animating 3D objects.
+- **Provider/GetX**: For state management.
+- **Firebase** (Optional): For backend and hosting.
+
+---
+
+## 📸 Screenshot's
+
+<div align="center">
+   <img src="https://github.com/user-attachments/assets/f9a4b469-4091-423b-9983-2103bd861660" height="500">
+   <img src="https://github.com/user-attachments/assets/d03c7bb5-b665-4590-b8a5-b855cb85b5c3" height="500">
+   
+   <img src="https://github.com/user-attachments/assets/7c9c828e-fa92-416b-91fc-b51fd29d46e2" height="500">
+   <img src="https://github.com/user-attachments/assets/bd4143c3-51dc-4372-a08a-99576e95f5a6" height="500">
+   <img src="https://github.com/user-attachments/assets/c03a4cba-e834-463e-b3a8-8494fa7252f2" height="500">
+  
+</div>
+
+---
+
+# 📹 Demo Video
+
+<div align="center">
+
+https://github.com/user-attachments/assets/737cedba-143b-443a-85b7-80f1c0b61615
+
+
+</div>
+
+---
+
+
